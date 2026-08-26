@@ -1,0 +1,17 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="48dp"
+    android:height="48dp"
+    android:viewportWidth="48"
+    android:viewportHeight="48">
+    <!-- Diagonal upward slash -->
+    <path
+        android:fillColor="#10B981"
+        android:pathData="M6,38 L14,38 L38,10 L30,10 Z" />
+    <!-- Angular Chevron folding into X -->
+    <path
+        android:fillColor="#059669"
+        android:pathData="M10,14 L22,14 L38,34 L30,34 L22,24 L16,32 L8,32 Z" />
+    <path
+        android:fillColor="#34D399"
+        android:pathData="M22,24 L28,14 L22,14 L18,20 Z" />
+</vector>

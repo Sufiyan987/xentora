@@ -1,0 +1,6 @@
+{
+  "name": "Xentora",
+  "description": "Xentora - Premium shopping store with product catalog, cart, wishlist, orders, and dark/light mode matching brand aesthetics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
